@@ -4,14 +4,14 @@
 
 <title>Manufacturing</title>
 <!-- Stylesheets -->
-<link href="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/bootstrap.css" rel="stylesheet">
-<link href="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/style.css" rel="stylesheet">
-<link href="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/responsive.css" rel="stylesheet">
+<link href="assets/bootstrap.css" rel="stylesheet">
+<link href="assets/style.css" rel="stylesheet">
+<link href="assets/responsive.css" rel="stylesheet">
 <!--Color Switcher Mockup-->
-<link href="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/color-switcher-design.css" rel="stylesheet">
+<link href="assets/color-switcher-design.css" rel="stylesheet">
 
 <!--Color Themes-->
-<link id="theme-color-file" href="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/default-theme.css" rel="stylesheet">
+<link id="theme-color-file" href="assets/default-theme.css" rel="stylesheet">
 
 <link rel="shortcut icon" href="https://elite-themes.com/html/sinaea/images/favicon.png" type="image/x-icon">
 <link rel="icon" href="/logo.png" type="image/x-icon">
@@ -116,7 +116,7 @@
 
                                 <ul class="shopping-cart-items">
                                     <li class="clearfix">
-                                        <img src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/prod-thumb-1.jpg" alt="item1">
+                                        <img src="assets/prod-thumb-1.jpg" alt="item1">
                                         <span class="item-name">Popular Product</span>
                                         <span class="item-price">$30.00</span>
                                         <span class="item-quantity">Quantity: 01</span>
@@ -124,7 +124,7 @@
                                     </li>
 
                                     <li class="clearfix">
-                                        <img src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/prod-thumb-2.jpg" alt="item1">
+                                        <img src="assets/prod-thumb-2.jpg" alt="item1">
                                         <span class="item-name">Popular Product</span>
                                         <span class="item-price">$30.00</span>
                                         <span class="item-quantity">Quantity: 01</span>
@@ -204,19 +204,19 @@
     <a href="https://elite-themes.com/html/sinaea/index.html#" class="purchase-btn">Purchase now!</a>
 </div><!-- End Color Switcher -->
 
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/jquery.js.download"></script> 
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/popper.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/bootstrap.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/owl.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/wow.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/appear.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/jquery.mCustomScrollbar.concat.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/swiper.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/jquery.stellar.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/TweenMax.min.js.download"></script>
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/script.js.download"></script>
+<script src="assets/jquery.js.download"></script> 
+<script src="assets/popper.min.js.download"></script>
+<script src="assets/bootstrap.min.js.download"></script>
+<script src="assets/owl.js.download"></script>
+<script src="assets/wow.js.download"></script>
+<script src="assets/appear.js.download"></script>
+<script src="assets/jquery.mCustomScrollbar.concat.min.js.download"></script>
+<script src="assets/swiper.min.js.download"></script>
+<script src="assets/jquery.stellar.min.js.download"></script>
+<script src="assets/TweenMax.min.js.download"></script>
+<script src="assets/script.js.download"></script>
 <!-- Color Setting -->
-<script src="./SINAEA - Industry and Factory HTML Template _ Home Showcase_files/color-settings.js.download"></script>
+<script src="assets/color-settings.js.download"></script>
 
 </body>
 </html>
